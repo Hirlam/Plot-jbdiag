@@ -4,11 +4,12 @@ Tools to prepare and plot JB diagnostics
 
 ## Prepare data
 
-Compile the code to create diagnostics files for plotting
+Compile the code to create diagnostics files for plotting using gfortran or similar
 
-'''
+```
+cd src
 gfortran -o jbdiagnose.x jbdiagnose.f90 -fconvert=big-endian
-'''
+```
 
 Edit scr/jbdiagnose.bash to fit your needs
 
