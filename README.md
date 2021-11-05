@@ -1,3 +1,5 @@
+# This code is deprecated, please use [AccordDATools](https://github.com/Hirlam/AccordDaTools) instead
+
 # Plot-jbdiag
 
 Tools to prepare and plot JB diagnostics
